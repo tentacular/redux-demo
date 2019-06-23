@@ -5,3 +5,4 @@ modified from https://github.com/shaminmeerankutty/webpack-sass-bootstrap-boiler
 execute in Terminal:
 * yarn install / npm install
 * yarn start / npm run start
+* simple list filtering demo with redux

@@ -1,0 +1,15 @@
+button {
+  background-color: #888888;
+  box-shadow: none;
+  border: 1px solid #000000;
+  &.active {
+    background-color: #ffffff;
+  }
+}
+
+li {
+  display: none;
+  &.active {
+    display: block;
+  }
+}
